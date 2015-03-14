@@ -14,7 +14,7 @@ Change the salary on line 18 of projectCost.cpp and other COCOMO variables accor
 ##How to run
 
 ###Usage: 
-```bash
+```shellscript
 sh priceOfSoftware [path of the folder name] [Per employee salary per month]
 ```
 
