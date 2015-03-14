@@ -45,39 +45,39 @@ recipes
 | 1636
 |-
 |HTML
-|31
-|94
-|0
-|1278
+| 31
+| 94
+| 0
+| 1278
 |-
-|SUM:
-|65
-|1746
-|249
-|8999
+! SUM:
+! 65
+! 1746
+! 249
+! 8999
 |}
 
 ##RESULTS
 
-Effort Applied:
+### Effort Applied:
 21.3037 Person-months
 
-Development Time:
+### Development Time:
 7.99379 Months
 
-People required:
+### People required:
 2.66503123049266993503
 
-Software Size: Source Lines of Code:
+### Software Size: Source Lines of Code:
 8999 SLOC
 
-Software Labor Rates
+### Software Labor Rates
 Cost per Person-Month (taka):
 100000 taka
 
 The new effort (man per month will be): 2
 
-Cost of the project will be: 
+### Cost of the project will be: 
 230000.00
 [ Only Two Hundred and Thirty Thousand  Taka & Zero poisha ]
 
