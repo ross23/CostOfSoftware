@@ -25,37 +25,12 @@ sh priceOfSoftware.sh /home/myFedora/Documents/priceOfSoftware/ 100000
 Name of the Software: 
 recipes
 
-{|
-! Language 
-! files 
-! blank
-! comment
-! code
-|-
-| CSS
-| 12
-| 1444
-| 224
-| 6085
-|-
-| XML                             
-| 22   
-| 208
-| 25
-| 1636
-|-
-|HTML
-| 31
-| 94
-| 0
-| 1278
-|-
-! SUM:
-! 65
-! 1746
-! 249
-! 8999
-|}
+| Language | files | blank | comment | code |
+| -------- | ----- | ----- | ------- | ---- |
+| CSS      | 12    | 1444  | 224     | 6085 |
+| XML      | 22    | 208   | 25      | 1636 |
+| HTML     | 31    | 94    | 0       | 1278 |
+| **SUM:** | **65** | **1746**  | **249** | **8999** |
 
 ##RESULTS
 
