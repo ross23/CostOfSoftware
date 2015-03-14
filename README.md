@@ -20,24 +20,44 @@ sh priceOfSoftware.sh /home/myFedora/Documents/priceOfSoftware/ 100000
 
 # Sample Output
 
-============================================================================
-Price of the Software
-============================================================================
+##Price of the Software
+
 Name of the Software: 
 recipes
 
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-CSS                             12           1444            224           6085
-XML                             22            208             25           1636
-HTML                            31             94              0           1278
--------------------------------------------------------------------------------
-SUM:                            65           1746            249           8999
--------------------------------------------------------------------------------
+{|
+! Language 
+! files 
+! blank
+! comment
+! code
+|-
+| CSS
+| 12
+| 1444
+| 224
+| 6085
+|-
+| XML                             
+| 22   
+| 208
+| 25
+| 1636
+|-
+|HTML
+|31
+|94
+|0
+|1278
+|-
+|SUM:
+|65
+|1746
+|249
+|8999
+|}
 
-RESULTS
-***************************************************************************
+##RESULTS
 
 Effort Applied:
 21.3037 Person-months
@@ -60,10 +80,6 @@ The new effort (man per month will be): 2
 Cost of the project will be: 
 230000.00
 [ Only Two Hundred and Thirty Thousand  Taka & Zero poisha ]
-
-============================================================================
-End of output
-============================================================================
 
 # Thank you
 Please accept my sincere thanks to all the authors from whose dedication --- this piece of source has been prepared!
