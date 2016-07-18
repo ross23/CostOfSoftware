@@ -1,4 +1,4 @@
-# CostOfSoftware
+# Cost Of Existing Software
 
 ##Warning
 Make sure you are on KDE and you have cloc, g++ and poppler utils installed
